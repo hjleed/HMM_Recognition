@@ -4,7 +4,7 @@
 # to run
 RUN_THIS.m
 
-#training
+# for training
 train.m
 
 
