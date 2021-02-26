@@ -1,6 +1,6 @@
 # HMM_Recognition
-
-
+Download VOICEBOX from
+http://www.ee.ic.ac.uk/hp/staff/dmb/voicebox/voicebox.html
 # to run
 RUN_THIS.m
 
